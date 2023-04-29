@@ -14,7 +14,6 @@
         }
         return { x : posx, y : posy }
     };
-
     // Helper functions
     const MathUtils = {
         lineEq: (y2, y1, x2, x1, currentVal) => {
